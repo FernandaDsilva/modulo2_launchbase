@@ -1,12 +1,12 @@
 
 
-# BootCamp LauchBase - Fase 2 - Rocketseat 🚀
+# BootCamp LaunchBase - Fase 2 - Rocketseat 🚀
 
 - Web page com HTML, CSS e JS.
 
 ## Portifólio
 
-Projeto realizado pela 🚀Rocketseat🚀 no bootcamp LauchBase.
+Projeto realizado pela 🚀Rocketseat🚀 no bootcamp LaunchBase.
 
 ## :memo: Licença
 
